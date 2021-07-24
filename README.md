@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahd-khawaldeh
+- 👋 Hi, I’m shahd khawaldeh
 - 🌱 I’m currently learning front-end developer
 -🌱 I’m currently developing my abilities of programing higly motivated way
 
